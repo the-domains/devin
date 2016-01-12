@@ -1,7 +1,7 @@
 name: devin
 favicon: null
-layout_spectrum: 0.72123
-typography_spectrum: 0.30743
+layout_spectrum: 1
+typography_spectrum: 0.22145
 title: "there's gold in them there cushions"
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#0d307e'
     - '#405a8a'
   brandStrength: 0.75
-  lightness: 0.8125
+  lightness: 0.5
   saturation: 0.3125
-  rhythmicContrast: 0.75
+  rhythmicContrast: 1
 purpose: []
