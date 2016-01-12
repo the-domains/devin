@@ -1,7 +1,7 @@
 name: devin
 favicon: null
-layout_spectrum: 0.21724858647212386
-typography_spectrum: 0.644118869677186
+layout_spectrum: 1
+typography_spectrum: 0.28633
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.7730275860521942
-  lightness: 0.6747875888831913
-  saturation: 0.36394563713110983
-  rhythmicContrast: 0.4158613961189985
+    - '#d1eafe'
+    - '#b8aea4'
+    - '#fefefd'
+    - '#8c7a70'
+    - '#3b2720'
+  brandStrength: 0.875
+  lightness: 0.625
+  saturation: 0.1875
+  rhythmicContrast: 0.5
 purpose: []
