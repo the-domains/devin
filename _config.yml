@@ -1,7 +1,7 @@
 name: devin
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.28633
+typography_spectrum: 0.30743
 title: "there's gold in them there cushions"
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#d1eafe'
-    - '#b8aea4'
-    - '#fefefd'
-    - '#8c7a70'
-    - '#3b2720'
-  brandStrength: 0.875
-  lightness: 0.625
-  saturation: 0.1875
-  rhythmicContrast: 0.5
+    - '#78a0d3'
+    - '#211007'
+    - '#dc2a1b'
+    - '#0d307e'
+    - '#405a8a'
+  brandStrength: 0.75
+  lightness: 0.8125
+  saturation: 0.3125
+  rhythmicContrast: 0.75
 purpose: []
